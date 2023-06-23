@@ -1,0 +1,3 @@
+Sistema operacional
+
+É o software responsável pelo controle das funções do computador, incluindo dispositivos de entrada de dados, controle de processos, controle de memória e dispositivos de saída.
